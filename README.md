@@ -1,0 +1,1 @@
+# lab-react-hoc-render-props-Render-Method
